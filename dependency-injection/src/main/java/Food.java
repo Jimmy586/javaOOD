@@ -1,3 +1,3 @@
 public interface Food {
-    public double priceCalculator(int number);
+    double priceCalculator(int number);
 }
