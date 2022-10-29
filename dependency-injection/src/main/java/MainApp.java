@@ -9,6 +9,6 @@ public class MainApp {
        pizzaChef.makeFood();
        out.println(pizza.priceCalculator(10) + " Euro");
        burgerChef.makeFood();
-        out.println(burger.priceCalculator(10) + " Euro");
+        out.println(burger.priceCalculator(-12) + " Euro");
     }
 }
